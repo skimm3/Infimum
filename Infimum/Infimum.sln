@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infimum", "Infimum\Infimum.csproj", "{367FE116-861A-4E33-A6BA-A25B9129659D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otter", "..\..\..\..\Desktop\utter\kylepulver-otter-578e5a9b3f38\Otter\Otter.csproj", "{236485C2-A7BA-4DCD-808A-B3A634764402}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otter", "..\Otter\Otter.csproj", "{236485C2-A7BA-4DCD-808A-B3A634764402}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
